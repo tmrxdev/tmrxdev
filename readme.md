@@ -26,5 +26,5 @@
 
 </p>
 <h2>Contact me</h2>
-Discord: @angeryt
-Twitter: @tmrxdesign
+<p>Discord: @angeryt</p>
+<p>X (Formerly Twitter): @tmrxdesign</p>
